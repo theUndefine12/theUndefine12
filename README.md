@@ -18,7 +18,6 @@ A Node.js Back-End Developer From Tashkent
 - Typescript
 - NodeJs
 - Express
-- Fastify
 - NestJs
 
 ## Database
